@@ -5,7 +5,6 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "newLine": "LF",
-    "outDir": "dist",
     "target": "es2018",
     "lib": [
       "es2018"

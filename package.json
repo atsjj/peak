@@ -2,7 +2,7 @@
   "name": "@atsjj/peak",
   "version": "1.0.0",
   "description": "Small, Personalized Library",
-  "main": "index.ts",
+  "main": "index.js",
   "author": "Steve Jabour <steve@jabour.me> (https://github.com/atsjj)",
   "license": "ISC",
   "dependencies": {
