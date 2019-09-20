@@ -1,0 +1,26 @@
+{
+  "name": "@atsjj/peak",
+  "version": "1.0.0",
+  "description": "Small, Personalized Library",
+  "main": "index.ts",
+  "author": "Steve Jabour <steve@jabour.me> (https://github.com/atsjj)",
+  "license": "ISC",
+  "dependencies": {
+    "@ts-type/package-dts": "^1.0.4",
+    "@types/bunyan": "^1.8.6",
+    "@types/express": "^4.17.1",
+    "@types/handlebars-helpers": "^0.5.2",
+    "bunyan": "^1.8.12",
+    "express": "^4.17.1",
+    "handlebars": "^4.2.0",
+    "handlebars-helpers": "^0.10.0",
+    "rehype-document": "^3.0.1",
+    "rehype-stringify": "^6.0.0",
+    "rehype-wrap": "^1.0.4",
+    "remark-parse": "^7.0.1",
+    "remark-rehype": "^5.0.0",
+    "remark-usage": "^7.0.1",
+    "to-vfile": "^6.0.0",
+    "unified": "^8.4.0"
+  }
+}
