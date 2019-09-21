@@ -8,4 +8,5 @@ __export(require("./lib/logger"));
 __export(require("./lib/package"));
 __export(require("./lib/package"));
 __export(require("./lib/readme"));
+__export(require("./lib/params"));
 __export(require("./lib/render-readme"));
