@@ -1,3 +1,5 @@
+import Logger = require('bunyan');
+export { Logger };
 export * from './lib/handlebars';
 export * from './lib/logger';
 export * from './lib/package';
