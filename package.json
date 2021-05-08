@@ -12,7 +12,7 @@
     "@types/handlebars-helpers": "^0.5.2",
     "bunyan": "^1.8.12",
     "express": "^4.17.1",
-    "handlebars": "^4.2.0",
+    "handlebars": "^4.7.7",
     "handlebars-helpers": "^0.10.0",
     "rehype-document": "^3.0.1",
     "rehype-stringify": "^6.0.0",
